@@ -210,4 +210,4 @@ Pull requests welcome! Please ensure your code is:
 
 ## 🔒 License
 
-MIT — © 2025 [Marius Heinrich](https://github.com/YOUR_GITHUB_NAME)
+MIT — © 2025 [Marius Heinrich](https://github.com/CodingMarius)
