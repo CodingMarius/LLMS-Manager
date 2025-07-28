@@ -1,0 +1,19 @@
+{
+    "name": "llms-manager",
+    "version": "1.0.0",
+    "description": "Enterprise-grade Node.js library to generate and parse llms.txt from sitemaps, using native modules only.",
+    "main": "src/llms-manager.js",
+    "type": "module",
+    "scripts": {
+        "test": "node test/llms-manager.test.js"
+    },
+    "keywords": [
+        "llms",
+        "sitemap",
+        "nodejs",
+        "enterprise",
+        "native"
+    ],
+    "author": "Marius Heinrich",
+    "license": "MIT"
+}
